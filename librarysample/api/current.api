@@ -1,0 +1,5 @@
+package co.kr.parkjonghun.librarysample {
+    public final class Foo {
+        method public dobule hoge();
+    }
+}
